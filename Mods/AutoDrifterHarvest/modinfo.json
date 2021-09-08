@@ -1,0 +1,12 @@
+{
+  "type": "code",
+  "modid": "autodrifterharvest",
+  "name": "Auto Drifter Harvest",
+  "authors": [ "Chara" ],
+  "description": "Automatically harvests drifters when killed",
+  "version": "1.0.0",
+  "dependencies": {
+    "game": ""
+  },
+  "requiredonclient": false
+}

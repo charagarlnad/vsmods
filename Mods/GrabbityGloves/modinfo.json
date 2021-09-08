@@ -1,0 +1,11 @@
+{
+  "type": "code",
+  "modid": "grabbitygloves",
+  "name": "Grabbity Gloves",
+  "authors": [ "Chara" ],
+  "description": "Pick up drops before they... drop",
+  "version": "1.0.0",
+  "dependencies": {
+    "game": ""
+  }
+}

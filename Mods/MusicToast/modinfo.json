@@ -1,0 +1,12 @@
+{
+  "type": "code",
+  "modid": "musictoast",
+  "name": "MusicToast",
+  "authors": [ "Chara" ],
+  "description": "Notifications about what music track is playing",
+  "version": "1.0.0",
+  "dependencies": {
+    "game": ""
+  },
+  "side": "Client"
+}

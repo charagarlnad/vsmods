@@ -1,0 +1,12 @@
+{
+  "type": "code",
+  "modid": "instantpropick",
+  "name": "Instant Propick",
+  "authors": [ "Chara" ],
+  "description": "Removes the 3 sample requirement from the Prospecting Pick",
+  "version": "1.0.0",
+  "dependencies": {
+    "game": ""
+  },
+  "requiredonclient": false
+}
